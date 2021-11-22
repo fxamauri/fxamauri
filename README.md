@@ -1,6 +1,6 @@
 ## Amauri Dias
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxamauri&count_private=true&hide_title=true&line_height=29)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxamauri&langs_count=8&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxamauri&count_private=true&hide_title=true&line_height=29&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxamauri&langs_count=8&layout=compact&theme=dark)
 
 ### Tecnologias / Stack  🛠️
 - Conhecimento avançado em API, arquitetura XML, JSON;
