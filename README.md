@@ -3,13 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxamauri&langs_count=8&layout=compact&theme=dark)
 
 ### Tecnologias / Stack  🛠️
-- Conhecimento avançado em API, arquitetura XML, JSON;
+- Conhecimento avançado em API, arquitetura XML, JSON e GraphQL;
 - Sistemas operacionais - Linux baseados em debian e FreeBSD, Windows e macOS;
 - Frameworks e ferramentas - CSS, Typescript, Regex, Runtime NodeJs, Gulp task runner, Postman, Insomnia, Webpack bundler, Parcel bundler, React Native, Next.js, Gatsby, Redux, Vuex, Laravel, Express.js, AdonisJS, Wordpress e Tray Ecommerce;
 - Frontend - Bootstrap, Jquery, Tailwindcss, ReactJs, Vue, Flexbox, CSS Grid, SCSS e Styled components;
 - Mobile - Java, Kotlin, Swift experiência em gerenciamento e deploy nas plataformas Android Google e Apple iOS;
-- Linguagens de programação - PHP, Javascript, Java, Kotline Swift;
-- Serviços DevOps - Github Actions, Buddy, Travis CI, Jenkins e Microsoft Appcenter;
+- Linguagens de programação - PHP, Javascript, GoLang;
+- Serviços DevOps - Github Actions, Buddy, Travis CI, Jenkins Bitrise e Microsoft Appcenter;
 - Versionamento - Git;
 - Servidores web - Nginx e Apache;
 - Ferramenta de cache - Redis;
